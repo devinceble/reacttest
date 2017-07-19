@@ -2,6 +2,7 @@
   "name": "githubtest",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://devinceble.github.io/reacttest/",
   "dependencies": {
     "react": "^16.0.0-alpha.6",
     "react-dom": "^15.6.1",
